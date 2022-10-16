@@ -1,0 +1,14 @@
+{
+    "version": "22.289.761",
+    "description": "Mod & Map downloader for Hero's Hour",
+    "homepage": "https://github.com/Flixbox/ModGallery",
+    "license": "MIT",
+    "url": "https://github.com/Flixbox/ModGallery/releases/download/v22.289.761/modgallery-Setup-22.289.761.exe",
+    "shortcuts": [
+        [
+            "modgallery.exe",
+            "ModGallery"
+        ]
+    ],
+    "checkver": "github"
+}
